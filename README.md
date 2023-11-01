@@ -15,7 +15,7 @@ Single pixel imaging (SPI) enables high-resolution imaging through multiple code
 ## Results
 
 <div align="center">
-  <img src="https://github.com/baturalpguven/A-Diffusion-Based-Reconstruction-Technique-for-Single-Pixel-Camera/assets/77858949/accfc9bf-3972-462c-82c5-4a2ef82619df.png](https://github.com/baturalpguven/Deep-Learning-Reconstruction-for-Single-Pixel-Imaging-with-Generative-Adversarial-Networks/assets/77858949/bd8dd0f0-67c3-40b6-a7ad-0b37af835b4a" alt="Figure 2: Reconstruction Results">
+  <img src="https://github.com/baturalpguven/Deep-Learning-Reconstruction-for-Single-Pixel-Imaging-with-Generative-Adversarial-Networks/assets/77858949/f629fab4-1e73-44dc-9e91-ec40ccd0292c" alt="Figure 2: Reconstruction Results">
   <p><em>Figure 2: (a) Ground truth image. Reconstructed images using (b) TV, (c) a TVFL1, (d) PnP, (e) Only ℓ1-loss (ablated variant of the proposed method), and (f) the proposed method.</em></p>
 </div>
 
@@ -34,9 +34,6 @@ Single pixel imaging (SPI) enables high-resolution imaging through multiple code
  ϵi by constructing a variant that used fixed ϵi (Fixed
  DC).</em></p>
 </div>
-
-![image](https://github.com/baturalpguven/Deep-Learning-Reconstruction-for-Single-Pixel-Imaging-with-Generative-Adversarial-Networks/assets/77858949/f58e0aa6-da5e-48f8-adfd-b155f7022aeb)
-
 
 
 <div align="center">
